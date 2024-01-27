@@ -5,4 +5,4 @@ jobs:
     runs-on: parrot-latest
     steps:
       - name: my-step
-        run: echo "Hello World!"
+          run: echo "Hello World!"
